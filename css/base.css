@@ -492,6 +492,45 @@ main {
     --item-text: #fff;
 }
 
+.theme-gillie {
+	--item-bg: rgba(0,0,0,0.2);
+	--item-link: #fff;
+	--item-link-hover: #fff;
+	--item-meta: #fff;
+	--item-title: #fff;
+	--item-subtitle: #fff;
+	--item-text: #fff;
+}
+
+.theme-gillie-side {
+	--item-bg: rgba(0,0,0,0.2);
+	--item-link: #fff;
+	--item-link-hover: #fff;
+	--item-meta: #fff;
+	--item-title: #fff;
+	--item-subtitle: #fff;
+	--item-text: #fff;
+}
+
+.theme-mtribes {
+	--item-bg: rgba(0,0,0,0.2);
+	--item-link: #fff;
+	--item-link-hover: #fff;
+	--item-meta: #fff;
+	--item-title: #fff;
+	--item-subtitle: #fff;
+	--item-text: #fff;
+}
+
+.theme-mtribes-side {
+	--item-bg: #fff;
+	--item-link: #000;
+	--item-link-hover: #000;
+	--item-meta: #000;
+	--item-title: #000;
+	--item-subtitle: #000;
+	--item-text: #000;
+}
 .theme-19 {
 	--item-bg: rgba(0,0,0,0.1);
     --item-link: #6317f5;
