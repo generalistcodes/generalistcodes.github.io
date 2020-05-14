@@ -169,6 +169,9 @@ main {
 .grid__item--bg {
 	background-color: var(--item-bg);
 	height: 100vw;
+	box-shadow: 0 1px 8px 2px rgba(45,62,80,.25);
+	-webkit-transition: box-shadow .2s ease;
+	transition: box-shadow .2s ease;
 }
 
 .grid__item-content {
@@ -344,12 +347,15 @@ main {
 
 .theme-4 {
 	--item-bg: #12161e;
-    --item-link: #fff;
-    --item-link-hover: #9e6817;
-    --item-meta: #fff;
-    --item-title: #fff;
-    --item-subtitle: #fff;
-    --item-text: #fff;
+	--item-link: #fff;
+	--item-link-hover: #9e6817;
+	--item-meta: #fff;
+	--item-title: #fff;
+	--item-subtitle: #fff;
+	--item-text: #fff;
+	box-shadow: 0 1px 8px 2px rgba(45,62,80,.25);
+	-webkit-transition: box-shadow .2s ease;
+	transition: box-shadow .2s ease;
 }
 
 .theme-5 {
@@ -484,12 +490,15 @@ main {
 
 .theme-18 {
 	--item-bg: rgba(0,0,0,0.2);
-    --item-link: #fff;
-    --item-link-hover: #fff;
-    --item-meta: #fff;
-    --item-title: #fff;
-    --item-subtitle: #fff;
-    --item-text: #fff;
+	--item-link: #fff;
+	--item-link-hover: #fff;
+	--item-meta: #fff;
+	--item-title: #fff;
+	--item-subtitle: #fff;
+	--item-text: #fff;
+	box-shadow: 0 1px 8px 2px rgba(45,62,80,.25);
+	-webkit-transition: box-shadow .2s ease;
+	transition: box-shadow .2s ease;
 }
 
 .theme-gillie {
@@ -503,13 +512,16 @@ main {
 }
 
 .theme-gillie-side {
-	--item-bg: rgba(0,0,0,0.2);
 	--item-link: #fff;
 	--item-link-hover: #fff;
 	--item-meta: #fff;
 	--item-title: #fff;
 	--item-subtitle: #fff;
 	--item-text: #fff;
+	background-image: linear-gradient(59deg,#063992,#0660b9 30%,#009bff);
+	box-shadow: 0 1px 8px 2px rgba(45,62,80,.25);
+	-webkit-transition: box-shadow .2s ease;
+	transition: box-shadow .2s ease;
 }
 
 .theme-mtribes {
@@ -530,6 +542,9 @@ main {
 	--item-title: #000;
 	--item-subtitle: #000;
 	--item-text: #000;
+	box-shadow: 0 1px 8px 2px rgba(45,62,80,.25);
+	-webkit-transition: box-shadow .2s ease;
+	transition: box-shadow .2s ease;
 }
 .theme-19 {
 	--item-bg: rgba(0,0,0,0.1);
