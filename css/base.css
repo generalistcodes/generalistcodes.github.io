@@ -315,6 +315,16 @@ main {
 }
 
 /* Themes */
+.theme-blue {
+    --item-bg: #4c34fb;
+    --item-link: #fff;
+    --item-link-hover: #0d2936;
+    --item-meta: #fff;
+    --item-title: #fff;
+    --item-subtitle: #fff;
+    --item-text: #fff;
+}
+
 .theme-1 {
 	--item-bg: #4bb4e7;
     --item-link: #fff;
