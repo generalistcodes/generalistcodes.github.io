@@ -659,7 +659,7 @@ main {
     left: 0;
     margin: 0;
     padding: 0;
-    background: #4e54c8;
+    background: transparent;
     overflow: hidden;
 }
 .background li {
