@@ -325,6 +325,16 @@ main {
     --item-text: #fff;
 }
 
+.theme-datalore {
+	--item-bg: #3c3c3c;
+    --item-link: #b2b2b2;
+    --item-link-hover: #0d2936;
+    --item-meta: #b2b2b2;
+    --item-title: #b2b2b2;
+    --item-subtitle: #b2b2b2;
+    --item-text: #b2b2b2;
+} 
+
 .theme-1 {
 	--item-bg: #4bb4e7;
     --item-link: #fff;
